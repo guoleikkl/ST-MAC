@@ -151,12 +151,12 @@ def popSci(key,index):
 def main():
     logging.info("start tempSelect process")
     configKeys = [
-        "49a1ea5cbfd14ba8b57a200e9d1387da.Ak0mVn7Zrm1LLgiO",
-        "cdd935b5f0994d52aec886dc199f9c90.m3mYAjrLUukgQTQX",
-        "5d402c5e8df649b9acbe23058d261336.5n7AkiLxzf51t5tZ",
-        "40b9fd51dc0e45848fb6a93d53fd244a.Kah3xHd0AmOH2PYH",
-        "a0aafb0103d04b67909a1851646556ce.kur8pG8bk0282v1o",
-        "ca8e71e2148d42fda3a99c9e90d0d1b1.SxJFrFnwsR0EDWYj"
+        ".Ak0mVn7Zrm1LLgiO",
+        ".m3mYAjrLUukgQTQX",
+        ".5n7AkiLxzf51t5tZ",
+        ".Kah3xHd0AmOH2PYH",
+        ".kur8pG8bk0282v1o",
+        ".SxJFrFnwsR0EDWYj"
     ]
     # popSci(configKeys[0],1)
     with ThreadPoolExecutor(max_workers=5) as executor:
