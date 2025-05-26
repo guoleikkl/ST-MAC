@@ -9,7 +9,7 @@ from glm.glm4ApiEnglish import GLM4ClientEnglish
 from glm.glm4ApiEnglishMulti import GLM4ClientEnglishMulti
 import re
 class MaPeredu:
-    def __init__(self, api_key='ca8e71e2148d42fda3a99c9e90d0d1b1.SxJFrFnwsR0EDWYj'):
+    def __init__(self, api_key='.SxJFrFnwsR0EDWYj'):
         self.field = 'Computer Science'
         self.api_key = api_key
         self.score = -1
@@ -23,18 +23,18 @@ class MaPeredu:
             'name':'proficient',
             'cn_name': '熟练者',
             'img': 'https://peredu-1322695558.cos.ap-beijing.myqcloud.com/survey/proficient.png',
-            'key':'c1542851655440b685316f84c5e97027.oB8tYDZfgCLRmbjB',
+            'key':'.oB8tYDZfgCLRmbjB',
             'info':'A proficient individual has some experience in the field and has mastered the basic concepts and common skills, allowing them to independently complete most tasks. While their understanding is deeper than a beginner’s, they may still lack comprehensive knowledge in more complex or advanced topics.'
         },{
             'name':'advanced',
             'cn_name': '进阶者',
-            'key':'5d92c327ba17434e849380c89ecfdd16.IIQOMdcXg0mUHHGE',
+            'key':'.IIQOMdcXg0mUHHGE',
             'img': 'https://peredu-1322695558.cos.ap-beijing.myqcloud.com/survey/advanced.png',
             'info':'An advanced individual possesses specialized knowledge in the field, enabling them to understand and solve relatively complex problems. Their knowledge structure is more systematic than that of a proficient individual, and they are continuously expanding and deepening their understanding of the field, though they have not yet reached expert-level depth or breadth.'
         },{
             'name':'expert',
             'cn_name': '专家型',
-            'key':'3c1021e749844f9fa225eb8efb3f69f7.LxxV5fibjblZdNZa',
+            'key':'.LxxV5fibjblZdNZa',
             'img': 'https://peredu-1322695558.cos.ap-beijing.myqcloud.com/survey/expert.png',
             'info':'An expert has extensive knowledge and rich experience in the field, allowing them to solve complex and cutting-edge problems. They have a deep mastery of the core principles and can contribute to research, innovation, or guide others in the field. Experts not only grasp the fundamental theories but also contribute to the advancement of knowledge within the domain.'
         },]
