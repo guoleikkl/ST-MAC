@@ -98,12 +98,12 @@ def popSci(key,index):
 def main():
     logging.info("start PopScience process")
     configKeys = [
-        "5d402c5e8df649b9acbe23058d261336.5n7AkiLxzf51t5tZ",
-        "fa76761f31244f27be16c74be8c2745c.ObUwPInG4GzFIXxj",
-        "e8daca08a0934cefb96fb72a34f7d702.Q3ACeQFNjO4P1qyb",
-        "baccba9864b042f28474b37630ccaafb.5jh9PkmG5NGGkp50",
-        "7d0e84ce617d4f8ca7bd72412f673c08.lQblXeRzfP99msFn",
-        "21c4d4d31dbd49e58268e8d4b231ee8c.3alNfkHGLG2sNmtv"
+        ".5n7AkiLxzf51t5tZ",
+        ".ObUwPInG4GzFIXxj",
+        ".Q3ACeQFNjO4P1qyb",
+        ".5jh9PkmG5NGGkp50",
+        ".lQblXeRzfP99msFn",
+        ".3alNfkHGLG2sNmtv"
     ]
     # popSci(configKeys[0],1)
     with ThreadPoolExecutor(max_workers=1) as executor:
@@ -115,12 +115,12 @@ def main():
 
 if __name__ == '__main__':
     # configKeys = [
-    #     "5d402c5e8df649b9acbe23058d261336.5n7AkiLxzf51t5tZ",
-    #     "99626758d48544d2822315c5e6eaf5ee.fuxIb0w9azCJtUNn",
-    #     "799c6e24c32e4c7db26fe92442ba6c75.WePbYZMOmPc6kB0i",
-    #     "cead652a24cd4de4aa9ee5ae9d8cd044.hAqjnmj8IWvaCMcx",
-    #     "5c40f74a3eb341de90ca95a66ce55740.1kEZZD616pNCIUc5",
-    #     "96cc3810ae9b43098f36b2754152f2a3.hbeFkwcJsWzlisrM"
+    #     ".5n7AkiLxzf51t5tZ",
+    #     ".fuxIb0w9azCJtUNn",
+    #     ".WePbYZMOmPc6kB0i",
+    #     ".hAqjnmj8IWvaCMcx",
+    #     ".1kEZZD616pNCIUc5",
+    #     ".hbeFkwcJsWzlisrM"
     # ]
     # popSci(configKeys[0],1)
     main()
