@@ -48,11 +48,11 @@ def process_document(apiKey, document):
         return 'C'
 def main():
     config = {
-        'one': '99626758d48544d2822315c5e6eaf5ee.fuxIb0w9azCJtUNn',
-        'two': 'cead652a24cd4de4aa9ee5ae9d8cd044.hAqjnmj8IWvaCMcx',
-        'three': '77d65d1d8ad04cb9899f7d5aa7d7846d.aBMFnpu2G70RuF8G',
-        'four': '96cc3810ae9b43098f36b2754152f2a3.hbeFkwcJsWzlisrM',
-        'five': 'ea3a6ea7f63a4623b0e933b3321172e0.7Y5teY5JYTdGNigQ'
+        'one': '.',
+        'two': '.',
+        'three': '.',
+        'four': '.',
+        'five': '.'
     }
 
     numA = 0
