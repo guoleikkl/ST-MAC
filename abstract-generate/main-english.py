@@ -19,7 +19,7 @@ mongo = MongoHelper()
 def main():
     mongo = MongoHelper()
     client = mongo.client
-    API_KEY = "f3f9c31367f04cabab27d18700b3d25a.Y8bBP8KUEJDmSURx"
+    API_KEY = "."
     glm4_client = GLM4ClientEnglish(API_KEY)
     db = client['personalization']
     prompt = "你是一个翻译、信息抽取专家，你的任务是帮我对科普文章内容翻译，先确保科普文章的知识含量，然后对超过200字的文章进行摘要然后翻译。直接告诉我答案就行，不要前缀，只要文本，不用*等符号，保留英文的空格标点"
