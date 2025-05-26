@@ -110,12 +110,12 @@ def evaluate_articles(mongo,key,index,dataRange,collections):
 def main():
     logging.info("start knowledge procee")
     configKeys = [
-        "0f66807ade564ef8a20c68b0af1e9bfe.VXDpEtjzB3AB4FWT",
-        "a9ddbeb91e3c4b17a29993559058c9e2.I8HnhXDYDa8V0eoN",
-        "7f842763344e4e718208da55d07a63ab.3CtrzN9ih92tvtTL",
-        "7dba5f8275664a38a6aab2f72eb3425e.ZDk8Jz9ZrP7xYAgY",
-        "7fe50d771c6f4c90804ecc29306bbe8c.IgS5Qh81Z2VwivEl",
-        "7a2ca68b590f4110ae3bc62731b105fe.ilj2YdT91uXAVJGx"
+        ".VXDpEtjzB3AB4FWT",
+        ".I8HnhXDYDa8V0eoN",
+        ".3CtrzN9ih92tvtTL",
+        ".ZDk8Jz9ZrP7xYAgY",
+        ".IgS5Qh81Z2VwivEl",
+        ".ilj2YdT91uXAVJGx"
     ]
     mongo = MongoHelper()
     client = mongo.client
