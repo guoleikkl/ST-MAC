@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO,
 
 def main():
     logging.info('Starting')
-    LLM = GLM4ClientEnglish("94f0c4d6f8644eaa9b4866b61d8d50c7.eZiqCjYgDbaA9ZdV")
+    LLM = GLM4ClientEnglish(".eZiqCjYgDbaA9ZdV")
     mongo = MongoHelper()
     client = mongo.client
     collectionName = f"ccnews_SubjectAgent_10"
