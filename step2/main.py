@@ -80,12 +80,12 @@ def knowledge(key,index):
 def main():
     logging.info("start knowledge procee")
     configKeys = [
-        "5d402c5e8df649b9acbe23058d261336.5n7AkiLxzf51t5tZ",
-        "34d1cb9b5a80476192b57f773dbbcf9a.vFTOVIiBLQ7by186",
-        "d70de9521fe049d1975b1d028e1eb539.8CEAq0EpyZpME7Z0",
-        "9936d2ad50fd44afa96790d5aed54bcb.fsTaHLYSXIXEI87K",
-        "f88cd9b6b7a741a8bfa4fcad63afd55d.P9dFhq7NAT15gz2k",
-        "d23b2232b0c04bca9a79f9e992363426.opPdoaPSOOrDCFV5"
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "."
     ]
 
     with ThreadPoolExecutor(max_workers=5) as executor:
