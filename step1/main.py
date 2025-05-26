@@ -23,64 +23,64 @@ logging.basicConfig(level=logging.INFO,
 
 CLASS_CONFIG=[{
     'class':'Earth Science',
-    'key':'99626758d48544d2822315c5e6eaf5ee.fuxIb0w9azCJtUNn',
+    'key':'.',
 },{
     'class':'Physics and Astrophysics',
-    'key':'799c6e24c32e4c7db26fe92442ba6c75.WePbYZMOmPc6kB0i',
+    'key':'.',
 },{
     'class':'mathematics',
-    'key':'cead652a24cd4de4aa9ee5ae9d8cd044.hAqjnmj8IWvaCMcx',
+    'key':'.',
 },{
     'class':'Agriculture and Forestry Science',
-    'key':'5c40f74a3eb341de90ca95a66ce55740.1kEZZD616pNCIUc5',
+    'key':'.',
 },{
     'class':'Materials Science',
-    'key':'77d65d1d8ad04cb9899f7d5aa7d7846d.aBMFnpu2G70RuF8G',
+    'key':'.',
 },{
     'class':'Computer Science',
-    'key':'4b4faf06eba14565bacb5b6edd19c7d5.OxA2PwnKuCkzQmgo',
+    'key':'.',
 },{
     'class':'Environmental Science and Ecology',
-    'key':'96cc3810ae9b43098f36b2754152f2a3.hbeFkwcJsWzlisrM',
+    'key':'.',
 },{
     'class':'chemistry',
-    'key':'ea3a6ea7f63a4623b0e933b3321172e0.7Y5teY5JYTdGNigQ',
+    'key':'.',
 },{
     'class':'Engineering Technology',
-    'key':'70bcc6f15f3c4733a63b0814fc869ede.MAaMzmdFFUxQ9kGo',
+    'key':'.',
 },{
     'class':'biology',
-    'key':'b90791c52ef14d93a104f0c1d814c389.rQj9Nevx65VImgiA',
+    'key':'.',
 },{
     'class':'Medicine',
-    'key':'55833e66eb594c9da4d76b884807d024.ompVNXlt97ff4aTY',
+    'key':'.',
 },{
     'class':'Sociology',
-    'key':'38792b0ab9324443b1dd8fcea79afdef.K95uHy3sQP81KUrb',
+    'key':'.',
 },{
     'class':'Psychology',
-    'key':'f45ed3539fe64b90b9b4155f3bd7eff8.POdpwbNUeyW1CZy8',
+    'key':'',
 },{
     'class':'pedagogy',
-    'key':'1cb9ccfe63ca4cf6aa2e1356dc676230.UwU0ROnDEbpbvhVV',
+    'key':'',
 },{
     'class':'Economics',
-    'key':'07121de76b85474d853a3670cbe0b84d.fbQqKxS3syYxxUnR',
+    'key':'',
 },{
     'class':'Management',
-    'key':'79062df2f45145ce80d49c7ba205f14e.G7Ib1hShdcpgCjbJ',
+    'key':'',
 },{
     'class':'philosophy',
-    'key':'0b3f8a34f13748dabf72917bdb9787de.UkaVcpeMSBDlCCMP',
+    'key':'',
 },{
     'class':'history',
-    'key':'ca8e71e2148d42fda3a99c9e90d0d1b1.SxJFrFnwsR0EDWYj',
+    'key':'',
 },{
     'class':'Literature',
-    'key':'a9ec61f4c306472aab04929e999af6a0.o6FdqjTn2tXAxf4W',
+    'key':'',
 },{
     'class':'Art',
-    'key':'77fb426e97b0467188f1672822151c86.xtqioQagAoV3svNI',
+    'key':'',
 }]
 
 
