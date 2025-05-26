@@ -80,19 +80,19 @@ if __name__ == '__main__':
     # Peredu
 
     configKeys=[{
-        'key': '54b4c8511aa74b95bb541f0d65e74368.Zp0dMBtoJjXfwH4l',
+        'key': '.Zp0dMBtoJjXfwH4l',
         'collectionName': 'pereduAbstractEnglish_part_1',
         'newCollectionName': 'PereduSeqToSeq_V3_1',
     },{
-        'key':'2d3ee13653fb42e5962e95ed8b25a3c7.OGeSUfwZOMCKY2OO',
+        'key':'.OGeSUfwZOMCKY2OO',
         'collectionName':'webnlg_1',
         'newCollectionName':'WebnlgSeqToSeq_V2_1',
     },{
-        'key':'52e3cfe8211740078aa70b01378b5e30.hS1kTjGCjkzoKrCw',
+        'key':'.hS1kTjGCjkzoKrCw',
         'collectionName':'event_1',
         'newCollectionName':'EventSeqToSeq_V2_1',
     },{
-        'key':'020fd2b115624095bebfa23d1a2e2e69.pNEJFkoNyEWNvAQT',
+        'key':'.pNEJFkoNyEWNvAQT',
         'collectionName':'ccnews_10',
         'newCollectionName':'CCNewsSeqToSeq_V2_10',
     }]
