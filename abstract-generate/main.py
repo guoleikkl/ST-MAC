@@ -7,7 +7,7 @@ from zhipuai import ZhipuAI
 from tqdm import tqdm
 import logging
 from datetime import datetime
-client = ZhipuAI(api_key="da2bd9097e594614a45afa9e01351708.NpJX7suQq0DthjGY")
+client = ZhipuAI(api_key=".")
 log_filename = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 logging.basicConfig(level=logging.INFO,
                    format='%(asctime)s - %(levelname)s: %(message)s',
